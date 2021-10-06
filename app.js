@@ -11,6 +11,9 @@ let result;
 if(op=='+'){
 	result=no1+no2;
 }
+if(op=='-'){
+	result=no1-no2;
+}
 console.log('answer:'+result);
 });
 });
